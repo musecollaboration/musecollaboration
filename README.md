@@ -1,16 +1,58 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="Python Backend: FastAPI, SQLAlchemy, Kafka, Docker" width="100%">
+</p>
 
-<!--
-**musecollaboration/musecollaboration** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Александр Терехов
 
-Here are some ideas to get you started:
+**Backend-разработчик на Python** · автор курсов и уроков на Stepik
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Пишу API и сервисы на FastAPI, проектирую архитектуру и преподаю то, что использую в работе.
+
+## О себе
+
+Ищу позицию **Middle Python Backend**. Работаю с FastAPI, Django/DRF и асинхронным SQLAlchemy 2.0, проектирую сервисы по принципам Clean Architecture. Автор курсов и уроков на Stepik — около 2 000 студентов.
+
+## Стек
+
+| Направление | Технологии |
+| :--- | :--- |
+| Язык и фреймворки | Python, FastAPI, Django, DRF, Pydantic |
+| Данные | SQLAlchemy 2.0, Alembic, PostgreSQL, Redis |
+| Очереди и события | FastStream, RabbitMQ, Kafka, NATS, Celery, Taskiq |
+| Архитектура | Clean Architecture, DDD, Dishka, Unit of Work |
+| Инфраструктура | Docker, Docker Compose, Poetry, Nginx, GitHub Actions |
+
+## Курсы на Stepik
+
+**Основной курс** — [Python Backend: FastAPI, SQLAlchemy, RabbitMQ, Kafka, NATS](https://stepik.org/course/223717/promo)
+Полный путь в бэкенд: FastAPI, FastStream, Dishka, SQLAlchemy, RabbitMQ, NATS, Kafka, Celery, Taskiq, Redis, Docker, Poetry, DRF, Pydantic.
+
+**Отдельные модули:**
+
+| Курс | О чём |
+| :--- | :--- |
+| [SQLAlchemy 2.0: от новичка до эксперта](https://stepik.org/course/299401/promo) | Sync и async ORM, связи таблиц, стратегии загрузки, каскады, Alembic, N+1, транзакции |
+| [FastStream + FastAPI: event-driven](https://stepik.org/course/299578/promo) | Единый API для RabbitMQ, Kafka, NATS и Redis: воркеры, сериализация, тесты, метрики |
+| [Dishka: DI без боли](https://stepik.org/course/299533/promo) | IoC-контейнер, провайдеры, скоупы, финализация, чистая архитектура в FastAPI |
+| [Чистая архитектура на практике](https://stepik.org/course/276482/promo) | Проектирование систем на FastAPI: слои, зависимости, тестируемость — бесплатно |
+| [Интеграция с SaaS: Pyrus, FastAPI и вебхуки](https://stepik.org/course/304093/promo) | REST, вебхуки, Extensions API и сервис-мост между Pyrus и Telegram — бесплатно |
+| [Django и DRF + проект на DRF](https://stepik.org/course/293290/promo) | Практический набор примеров и рекомендаций по Django REST Framework — бесплатно |
+
+## Избранные проекты
+
+| Проект | Описание |
+| :--- | :--- |
+| **[tutors-platform](https://github.com/musecollaboration/tutors-platform)** | Платформа для поиска репетиторов и проведения занятий. Бэкенд на FastAPI, модульный монолит |
+| **[pyrus-telegram-chat](https://github.com/musecollaboration/pyrus-telegram-chat)** | Сервис-мост между задачами Pyrus и Telegram-чатом: сообщения ходят в обе стороны |
+| **[MiniERP](https://github.com/musecollaboration/MiniERP)** | Модуль бухгалтерского учёта с двойной записью, OCR документов и микросервисной архитектурой |
+| **[ClientSync](https://github.com/musecollaboration/ClientSync)** | Агрегация клиентских данных: enterprise-подходы к архитектуре, масштабированию и производительности |
+
+Остальные проекты — в [репозиториях](https://github.com/musecollaboration?tab=repositories): Kafka-кластер для экспериментов, демо на Celery и RabbitMQ, учебные проекты по чистой архитектуре.
+
+## Контакты
+
+- Telegram: [@musecollaboration](https://t.me/musecollaboration)
+- Stepik: [профиль автора](https://stepik.org/users/659009172/teach)
+- GitHub: [musecollaboration](https://github.com/musecollaboration)
+
+Открыт к предложениям на позицию Middle Python Backend и к вопросам по курсам.
