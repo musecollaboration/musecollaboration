@@ -31,7 +31,7 @@
 
 | Курс | О чём |
 | :--- | :--- |
-| [SQLAlchemy 2.0: от новичка до эксперта](https://stepik.org/course/299401/promo) | Sync и async ORM, связи таблиц, стратегии загрузки, каскады, Alembic, N+1, транзакции |
+| [SQLAlchemy 2.0: от новичка до эксперта](https://stepik.org/a/299401) | Sync и async ORM, связи таблиц, стратегии загрузки, каскады, Alembic, N+1, транзакции |
 | [FastStream + FastAPI: event-driven](https://stepik.org/a/299578) | Единый API для RabbitMQ, Kafka, NATS и Redis: воркеры, сериализация, тесты, метрики |
 | [Dishka: DI без боли](https://stepik.org/a/299533) | IoC-контейнер, провайдеры, скоупы, финализация, чистая архитектура в FastAPI |
 | [Чистая архитектура на практике](https://stepik.org/course/276482/promo) | Проектирование систем на FastAPI: слои, зависимости, тестируемость — бесплатно |
