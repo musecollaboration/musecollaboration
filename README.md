@@ -10,7 +10,7 @@
 
 ## О себе
 
-Ищу позицию **Middle Python Backend**. Работаю с FastAPI, Django/DRF и асинхронным SQLAlchemy 2.0, проектирую сервисы по принципам Clean Architecture. Автор курсов и уроков на Stepik — около 2 000 студентов.
+Работаю с FastAPI, и асинхронным SQLAlchemy 2.0, проектирую сервисы по принципам Clean Architecture. Автор курсов и уроков на Stepik — около 2 000 студентов.
 
 ## Стек
 
@@ -46,8 +46,6 @@
 | **[pyrus-telegram-chat](https://github.com/musecollaboration/pyrus-telegram-chat)** | Сервис-мост между задачами Pyrus и Telegram-чатом: сообщения ходят в обе стороны |
 | **[MiniERP](https://github.com/musecollaboration/MiniERP)** | Модуль бухгалтерского учёта с двойной записью, OCR документов и микросервисной архитектурой |
 | **[ClientSync](https://github.com/musecollaboration/ClientSync)** | Агрегация клиентских данных: enterprise-подходы к архитектуре, масштабированию и производительности |
-
-Остальные проекты — в [репозиториях](https://github.com/musecollaboration?tab=repositories): Kafka-кластер для экспериментов, демо на Celery и RabbitMQ, учебные проекты по чистой архитектуре.
 
 ## Контакты
 
