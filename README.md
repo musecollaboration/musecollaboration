@@ -24,7 +24,7 @@
 
 ## Курсы на Stepik
 
-**Основной курс** — [Python Backend: FastAPI, SQLAlchemy, RabbitMQ, Kafka, NATS](https://stepik.org/course/223717/promo)
+**Основной курс** — [Python Backend: FastAPI, SQLAlchemy, RabbitMQ, Kafka, NATS](https://stepik.org/a/223717)
 Полный путь в бэкенд: FastAPI, FastStream, Dishka, SQLAlchemy, RabbitMQ, NATS, Kafka, Celery, Taskiq, Redis, Docker, Poetry, DRF, Pydantic.
 
 **Отдельные модули:**
@@ -32,11 +32,10 @@
 | Курс | О чём |
 | :--- | :--- |
 | [SQLAlchemy 2.0: от новичка до эксперта](https://stepik.org/course/299401/promo) | Sync и async ORM, связи таблиц, стратегии загрузки, каскады, Alembic, N+1, транзакции |
-| [FastStream + FastAPI: event-driven](https://stepik.org/course/299578/promo) | Единый API для RabbitMQ, Kafka, NATS и Redis: воркеры, сериализация, тесты, метрики |
-| [Dishka: DI без боли](https://stepik.org/course/299533/promo) | IoC-контейнер, провайдеры, скоупы, финализация, чистая архитектура в FastAPI |
+| [FastStream + FastAPI: event-driven](https://stepik.org/a/299578) | Единый API для RabbitMQ, Kafka, NATS и Redis: воркеры, сериализация, тесты, метрики |
+| [Dishka: DI без боли](https://stepik.org/a/299533) | IoC-контейнер, провайдеры, скоупы, финализация, чистая архитектура в FastAPI |
 | [Чистая архитектура на практике](https://stepik.org/course/276482/promo) | Проектирование систем на FastAPI: слои, зависимости, тестируемость — бесплатно |
 | [Интеграция с SaaS: Pyrus, FastAPI и вебхуки](https://stepik.org/course/304093/promo) | REST, вебхуки, Extensions API и сервис-мост между Pyrus и Telegram — бесплатно |
-| [Django и DRF + проект на DRF](https://stepik.org/course/293290/promo) | Практический набор примеров и рекомендаций по Django REST Framework — бесплатно |
 
 ## Избранные проекты
 
