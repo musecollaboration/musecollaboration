@@ -55,4 +55,4 @@
 - Stepik: [профиль автора](https://stepik.org/users/659009172/teach)
 - GitHub: [musecollaboration](https://github.com/musecollaboration)
 
-Открыт к предложениям на позицию Middle Python Backend и к вопросам по курсам.
+Открыт к предложениям.
